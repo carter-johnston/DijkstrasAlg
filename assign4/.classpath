@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/parkh/OneDrive/Documents/graphstream-java/gs-algo-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/parkh/OneDrive/Documents/graphstream-java/gs-core-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/parkh/OneDrive/Documents/graphstream-java/gs-ui-javafx-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/parkh/OneDrive/Documents/graphstream-java/gs-ui-swing-2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
